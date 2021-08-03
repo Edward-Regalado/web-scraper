@@ -1,4 +1,4 @@
-# Lab 17 - Web Scraper
+## Lab 17 - Web Scraper
 
 ### Author
 **Tony Regalado**
