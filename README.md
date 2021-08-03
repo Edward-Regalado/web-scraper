@@ -1,7 +1,10 @@
 # Lab 17 - Web Scraper
 
 ### Author
-- **Tony Regalado**
+**Tony Regalado**
+
+### Code
+[Pull Request](https://github.com/Edward-Regalado/web-scraper/pull/1)
 
 ### Overview
 
@@ -38,8 +41,8 @@ Build a web scraper that can automate the process of manually using the site.
 
 ### Collaboration & Credit
 
-- [Source](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [Source](https://www.youtube.com/watch?v=XVv6mJpFOb0)
+- [Crummy](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Youtube](https://www.youtube.com/watch?v=XVv6mJpFOb0)
 
 ### Configuration 
 - $*poetry new web-scraper*
